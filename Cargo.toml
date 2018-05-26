@@ -1,0 +1,6 @@
+[package]
+name = "rusty_painter"
+version = "0.1.0"
+authors = ["tamedro <3feet4d5>"]
+
+[dependencies]
